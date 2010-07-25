@@ -21,4 +21,4 @@ Screenshots
 [php.download]: http://www.php.net/downloads.php
 [openssl]: http://www.openssl.org
 [openssl.source]: http://www.openssl.org/source
-[screenshot]: http://lh4.ggpht.com/__Xa3pgCvgbY/TEyPjf96kbI/AAAAAAAAGZ4/amj1suOnGPg/s144/Openssl_helper-screenshot.jpg
+[screenshot]: http://lh4.ggpht.com/__Xa3pgCvgbY/TEyPjf96kbI/AAAAAAAAGZ4/amj1suOnGPg/s800/Openssl_helper-screenshot.jpg
